@@ -46,9 +46,7 @@ Important things that I learnt building this project
 
 Aaveg Gupta - [linkedin/aaveggupta](https://www.linkedin.com/in/aaveggupta/)
 
-Project Link: [https://github.com/aaveggupta/Netflix-Clone](https://github.com/aaveggupta/Netflix-Clone)
-
-Project Demo: [https://netflix-clone-415f8.web.app/](https://netflix-clone-415f8.web.app/)
+Project Link: [https://github.com/aaveggupta/Spotify-Clone](https://github.com/aaveggupta/Spotify-Clone)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
