@@ -30,11 +30,6 @@ const PlayerBody = ({ spotify }) => {
           <h5 className="player-body__dw-right-text">
             {discoverWeekly?.description}
           </h5>
-          <h5 className="player-body__dw-right-madefor">
-            Made for{" "}
-            <span style={{ color: "white" }}>{user?.display_name}</span> ·
-            30songs
-          </h5>
         </div>
       </div>
       <div className="player-body__icons">
