@@ -1,0 +1,22 @@
+.songrow {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin-top: 1.5rem;
+}
+
+.songrow-img {
+  height: 3.5rem;
+  margin-right: 1rem;
+}
+
+.songrow-title {
+  color: white;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.songrow-artist {
+  color: rgb(182, 182, 182);
+  font-size: 0.9rem;
+}
