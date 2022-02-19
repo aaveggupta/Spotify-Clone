@@ -2,11 +2,9 @@
 <!-- PROJECT LOGO -->
 <div align="center">
 
-  <h3 align="center">Netflix Clone</h3>
+  <h1 align="center">Spotify Clone</h1>
   <p align="center">
-    fully responsive single page web app built using react.js
-    <br />
-    <a href="https://netflix-clone-415f8.web.app/">View Demo</a>
+    Completely build using React.js
   </p>
 </div>
 
@@ -23,45 +21,22 @@
 ### Built With
 
 - [React.js](https://reactjs.org/)
-- [React Youtube NPM Package](https://www.npmjs.com/package/react-youtube/)
-- [Movie Trailer NPM Package](https://www.npmjs.com/package/movie-trailer)
-- [TMDB API](https://www.themoviedb.org/)
+- [Spotify API](https://developer.spotify.com/)
+- [Spotify Web API JS NPM Package](https://www.npmjs.com/package/spotify-web-api-js)
+- [Material UI Icons](https://mui.com/components/material-icons/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
-### Installation
+### Learnings
 
-Follow these steps to run this project on your local system
+Important things that I learnt building this project
 
-1. Get a free API Key at [https://www.themoviedb.org/](https://www.themoviedb.org/)
-2. Clone the repo
-
-   ```sh
-   git clone https://github.com/aaveggupta/Netflix-Clone.git
-   ```
-
-3. Change directory to Netflix-Clone
-   ```sh
-   cd Netflix-Clone
-   ```
-4. Install NPM
-   ```sh
-   npm install
-   ```
-5. Install NPM packages
-   ```sh
-   npm install movie-trailer react-youtube
-   ```
-6. Enter your API in `src/requests.js`
-   ```js
-   const API_KEY = "YOUR_API_KEY";
-   ```
-7. Start NPM
-   ```sh
-   npm start
-   ```
+1. Working with API's (Mostly about **AUTH** and **GET Request**)
+2. Efficient way to use **contextAPI** in React to fetch data in any component
+3. Instead of **useState**, I used **useReducer** Hook to implement state logic
+4. Implemented complex styling using **CSS**
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
