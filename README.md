@@ -50,15 +50,6 @@ Project Link: [https://github.com/aaveggupta/Spotify-Clone](https://github.com/a
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
-- [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [product-screenshot]: readme_asset/spotify_screenshot.png
